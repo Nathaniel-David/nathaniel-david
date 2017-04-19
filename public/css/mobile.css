@@ -111,6 +111,21 @@
       margin-left: auto;
       margin-right: auto;
     }
+    .mobile-content h3 {
+      color: #fff;
+      text-align: center;
+    }
+    .mobile-content p {
+      color: #fff;
+      text-align: center;
+      padding-left: 15px;
+      padding-right: 15px;
+      font-size: 18px;
+    }
+    .mobile-content {
+      
+      margin-bottom: 100px;
+    }
 }
 
 /* Landscape */

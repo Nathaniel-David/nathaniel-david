@@ -437,3 +437,6 @@ section#contact .text-danger {
     height: 20px;
     background: #ffffff;
 }
+.inner-holder {
+  opacity: .7;
+}

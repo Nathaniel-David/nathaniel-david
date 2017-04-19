@@ -51,8 +51,32 @@
         </div>
       </nav>
     </div>
-    <h1 class="service-head" style="color: #fff;">Process</h1>
-    <div class="wp-traveladvisor">
+    <h1 class="service-head" style="color: #fff;">Process</h1><hr>
+    <div class="mobile-content hidden-md hidden-lg">
+      <h3>Quote</h3>
+      <hr>
+      <p>Submit a quote, or just reach out by phone or <a href="mailto:me@nathaniel-david.tech">email</a>. Since each project is unique, I’ll research and learn my clients’ companies, products, and services in relation to their digital needs. 
+                        </p>
+      <br><br><hr>
+      <h3>Meet and Discuss</h3><hr>
+      <p>
+                         Let’s meet at a convenient time and location and discuss the project. An overview from A-Z of all your expectations will allow me to give you a solid estimate on the time and cost for the project. If busy schedules and/or distance is an issue, we can discuss by phone or Skype.                    
+              </p><br><br><hr>
+      <h3>Review</h3><hr>
+      <p>
+                            A mock up and full summary of all the site’s functionality will be sent for your approval. Edits and adjustments can be made, and then a contract will be ready along with the price.                      </p>
+                        <br><br><hr>
+      <h3>Development</h3><hr>
+      <p>
+                      This is when all the magic happens. By utilizing a solid back-end framework and customizing a front end to your specifications, all the coding and configurations needed to get your site tailored to your needs will be made.                 
+                      Tests will be made on every page to check that all the functionality and features of your site run correctly.
+                    </p><br><br><hr>
+      <h3>Launch</h3><hr>
+      <p>
+                         After a review of the project, we’ll make your site go live for all the world to see. I’ll make sure you are trained and ready to handle any admin or server features. If you have any questions or need help I’ll be there still to make sure that you continue to have a smooth and seamless experience.                
+              </p><br><br>
+    </div>
+    <div class="wp-traveladvisor hidden-xs hidden-sm">
       <ul class="cs-destination-listing destination-fancy">
          <li class="facny-view-expand">     
             <div class="inner-holder">
@@ -212,5 +236,14 @@
     <script type='text/javascript' src='js/skills-progress.js'></script>
     <script type='text/javascript' src='js/mobile-menu.min.js'></script>
     <script type='text/javascript' src='js/functions62.js'></script>
+    <script type="text/javascript">
+    $(document).ready(function(){
+        $('.inner-holder').hover(function(){
+            $(this).css("opacity", ".99");
+            }, function(){
+            $(this).css("opacity", ".7");
+        });
+    });
+    </script>
   </body>
 </html>

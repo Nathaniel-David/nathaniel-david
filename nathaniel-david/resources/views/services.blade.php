@@ -57,7 +57,18 @@
       </nav>
     </div>
     <h1 class="service-head">Services</h1>
-    <div class="wp-traveladvisor">
+    <div class="mobile-content hidden-md hidden-lg">
+      <h3>Digital Planning</h3>
+      <hr>
+      <p>Develop your digital presence with SEO, Digital Marketing, and accurate tracking. Best practices will be used to ensure your site is compliant with Google and optimized so potential customers can find you. Get set up with Google Analytics, Facebook Marketing, and clean content to keep your business modern and competitive.</p>
+      <br><br><hr>
+      <h3>Web Design</h3><hr>
+      <p>With mobile devices being used 65% of the time to search the web, it is important to make sure your site is optimized across all mobile devices. This service provides just that by designing and testing your site to be accessible and readable on any platform. Along with this a custom template will be created to best represent you and your brand.</p><br><br><hr>
+      <h3>Web Development</h3><hr>
+      <p>Need more than just a pretty landing page? Get setup with a full fledged custom platform that can handle all of your requirements. From user logins and member sites to eCommerce setup and custom tools, I have the experience needed to build a platform that will eliminate your spend on external subscription services. Work smarter not harder, and get a website that does more work intelligently for you.</p>
+                        <br><br>
+    </div>
+    <div class="wp-traveladvisor hidden-xs hidden-sm">
       <ul class="cs-destination-listing destination-fancy">
          <li class="facny-view-expand">     
             <div class="inner-holder">
@@ -159,5 +170,14 @@
     <script type='text/javascript' src='js/skills-progress.js'></script>
     <script type='text/javascript' src='js/mobile-menu.min.js'></script>
     <script type='text/javascript' src='js/functions62.js'></script>
+    <script type="text/javascript">
+    $(document).ready(function(){
+        $('.inner-holder').hover(function(){
+            $(this).css("opacity", ".99");
+            }, function(){
+            $(this).css("opacity", ".7");
+        });
+    });
+    </script>
   </body>
 </html>
