@@ -59,7 +59,7 @@
         </div>
       </nav>
     </div>
-<section id="contact">
+<section id="contact" class="container">
           <div class="row">
               <div class="about_our_company" style="margin-bottom: 20px;">
                   <h1 style="color:#000;">Submit Your Quote</h1>
