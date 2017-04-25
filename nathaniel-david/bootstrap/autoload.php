@@ -14,7 +14,7 @@ define('LARAVEL_START', microtime(true));
 |
 */
 
-require __DIR__ . '/../vendor/autoload.php';
+require '/home/forge/default/nathaniel-david/vendor/autoload.php';
 
 /*
 |--------------------------------------------------------------------------
