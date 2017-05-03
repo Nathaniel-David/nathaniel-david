@@ -30,7 +30,7 @@
     }
     </style>
   </head>
-  <body class="service-body">
+  <body class="service-body container">
     <div class="section-top">
        <nav class="navbar  navbar-inverse  navbar-fixed-top">
         <div class="container">

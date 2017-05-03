@@ -20,7 +20,7 @@
 <link rel="stylesheet" type="text/css" href="/css/slider.css">
 <link rel="stylesheet" type="text/css" href="/css/mobile.css">
   </head>
-  <body>
+  <body class="container">
     <div class="section-top">
        <nav class="navbar  navbar-inverse  navbar-fixed-top">
         <div class="container">
@@ -75,9 +75,9 @@
                         <div class="col-md-3 text-right">
 
                         </div>
-                        <div class="col-md-9 text-left slide-one">
+                        <div class="col-md-9 text-left slide-one" style="margin-bottom: 50px;">
                             <h1 data-animation="animated bounceInDown">DIGITAL <br class="hidden-lg hidden-md">PLANNING</h1>
-                            <h4 data-animation="animated bounceInUp" class="sub-one">A Great Product Starts with a <br>Great Foundation</h4>             
+                            <h4 data-animation="animated bounceInUp" class="sub-one">A Great Product Starts <br>with a Great Foundation</h4>             
                          </div>
                     </div></div>
                  </div> 
@@ -109,10 +109,8 @@
             </div>
             <!-- End Wrapper for slides-->
             <a class="left carousel-control hidden-sm hidden-xs" href="#carousel-example-generic" role="button" data-slide="prev">
-                <i class="fa fa-angle-left"></i><span class="sr-only">Previous</span>
             </a>
             <a class="right carousel-control hidden-sm hidden-xs" href="#carousel-example-generic" role="button" data-slide="next">
-                <i class="fa fa-angle-right"></i><span class="sr-only">Next</span>
             </a>
         </div>
     </div> 

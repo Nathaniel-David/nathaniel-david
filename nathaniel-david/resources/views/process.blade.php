@@ -25,7 +25,7 @@
     <link rel="stylesheet" type="text/css" href="/css/style.css">
     <link rel="stylesheet" type="text/css" href="/css/mobile.css">
   </head>
-  <body class="process-body">
+  <body class="process-body container">
     <div class="section-top">
        <nav class="navbar  navbar-inverse  navbar-fixed-top">
         <div class="container">
