@@ -37,6 +37,13 @@
       background-image: url();
       margin-bottom: 400px;
     }
+    .logo {
+      max-width: 200px;
+      font-size: 7px;
+    }
+    .quote-btn {
+      margin-bottom: 30px;
+    }
     .mobile-content h3 {
       color: #fff;
       text-align: center;
@@ -149,6 +156,9 @@
     .mobile-content h3 {
       color: #fff;
       text-align: center;
+    }
+    .quote-btn {
+      margin-bottom: 30px;
     }
     .mobile-content p {
       color: #fff;

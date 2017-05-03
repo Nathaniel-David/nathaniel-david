@@ -95,7 +95,7 @@
                               </div>
                           </div>
                           <div class="clearfix"></div>
-                          <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 text-center">
+                          <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 text-center quote-btn">
                               <div id="success">
                               </div>
                               <button type="submit" style="background-color: #b30e30; color: #fff;" class="btn btn-xl get">Send Quote</button>
