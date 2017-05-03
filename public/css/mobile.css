@@ -38,8 +38,8 @@
       margin-bottom: 400px;
     }
     .logo {
-      max-width: 200px;
-      font-size: 7px;
+      max-width: 250px;
+      font-size: 8px;
     }
     .quote-btn {
       margin-bottom: 30px;
@@ -61,6 +61,9 @@
     }
     #contact {
       margin-bottom: 50px;
+    }
+    .navbar-toggle {
+      margin-right: 5px;
     }
 
 }
