@@ -72,7 +72,7 @@
   and (-webkit-min-device-pixel-ratio: 2)
   and (orientation: portrait) {
     .logo {
-      font-size: 10px;
+      font-size: 7px;
     }
     .navbar-toggle .icon-bar {
       width: 40px;
