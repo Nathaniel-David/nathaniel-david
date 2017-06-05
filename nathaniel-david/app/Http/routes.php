@@ -23,9 +23,13 @@ Route::get('process', function () {
     return view('process');
 });
 
+Route::get('/quotes', [
+    'middleware' => 'auth',
+    'uses' => 'QuotesController@index'
+]);
+
 Route::get('thankyou', 'QuotesController@thankyou');
 Route::resource('quote', 'QuotesController');
-Route::get('/quotes', 'QuotesController@index');
 Route::get('quote', 'QuotesController@create');
 Route::post('quote', 'QuotesController@store');
 
