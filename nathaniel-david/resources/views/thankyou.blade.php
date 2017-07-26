@@ -52,6 +52,7 @@
                         </li>
                     @endif
                    <li class=""><a href="/services">Services</a></li>
+                   <li> <a href="/reviews">Reviews</a> </li>
                    <li> <a href="/process">Process</a> </li>
                  </ul>
              </div>

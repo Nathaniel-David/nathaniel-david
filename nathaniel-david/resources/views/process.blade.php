@@ -45,6 +45,7 @@
                  <ul class="nav navbar-nav navbar-right">
                    <li class=""><a href="/services">Services</a></li>
                    <li> <a href="/process">Process</a> </li>
+                   <li> <a href="/reviews">Reviews</a> </li>
                    <li> <a href="/quote" class="btn btn-primary btn-danger">Get A Quote</a> </li>
                  </ul>
              </div>
