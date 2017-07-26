@@ -9,14 +9,6 @@
 
     <!-- Bootstrap -->
     <!-- Latest compiled and minified CSS -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-    <link rel='stylesheet'  href='/css/cs-traveladvisor.css' type='text/css' media='all' />
-    <link rel='stylesheet'  href='/css/bootstrap62.css' type='text/css' media='all' />
-    <link rel='stylesheet'   href='/css/bootstrap-datetimepicker.min62.css' type='text/css' media='all' />
-    <link rel='stylesheet'   href='/css/default-element.css' type='text/css' media='all' />
-    <link rel='stylesheet'   href='/css/responsive62d0.css' type='text/css' media='all' />
-
-    <!-- Latest compiled and minified CSS -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
 <!-- Optional theme -->
@@ -28,7 +20,7 @@
 <link rel="stylesheet" type="text/css" href="/css/slider.css">
 <link rel="stylesheet" type="text/css" href="/css/mobile.css">
   </head>
-  <body>
+  <body class="container">
 <div class="section-top">
        <nav class="navbar  navbar-inverse  navbar-fixed-top">
         <div class="container">
