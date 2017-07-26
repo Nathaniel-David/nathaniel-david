@@ -23,6 +23,10 @@ Route::get('process', function () {
     return view('process');
 });
 
+Route::get('reviews', function () {
+    return view('reviews');
+});
+
 Route::get('/quotes', [
     'middleware' => 'auth',
     'uses' => 'QuotesController@index'
