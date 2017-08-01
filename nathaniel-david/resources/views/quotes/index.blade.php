@@ -7,6 +7,7 @@
             <h1>Quotes</h1><hr>
             @foreach ($objects as $quote)
              <p>Name: {{ $quote->name }}</p>
+             <p>Sent: {{ $quote->created_at }}</p>
              <p>Company: {{ $quote->company }}</p>
              <p>Email: {{ $quote->email }}</p>
              <p>Phone: {{ $quote->phone }}</p>
