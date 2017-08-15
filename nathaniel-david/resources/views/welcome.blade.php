@@ -112,7 +112,7 @@
     <div class="navbar  navbar-inverse navbar-fixed-bottom"> 
        <div class="container">
          <div class="footer-p">
-          <p> email: <a href="mailto:me@nathaniel-david.tech">me@nathaniel-david.tech</a> | Nathaniel-David Web Development | Austin Texas | 210 367 3596</p>
+          <p> email: <a href="mailto:me@nathaniel-david.tech">me@nathaniel-david.tech</a> | Nathaniel-David Web Development | 119 Nueces St, Second Floor | Austin Texas | 210 367 3596</p>
          </div>
             
        </div>
